@@ -21,7 +21,7 @@
         "id": "@id",
         "OpenAttestationSignature2018": "xsd:string",
         "value": "xsd:string",
-        "method": "xsd:string",
+        "method": "xsd:string"
       }
     },
     "template": {
