@@ -54,7 +54,13 @@
     "name": "xsd:string",
     "path": "xsd:string",
     "targetHash": "xsd:string",
-    "proof": "xsd:string",
+    "proofs": {
+      "@id": "https://lol.com/todo",
+      "@container": [
+        "@index",
+        "@set"
+      ]
+    },
     "merkleRoot": "xsd:string",
     "salts": {
       "@id": "https://lol.com/todo",
