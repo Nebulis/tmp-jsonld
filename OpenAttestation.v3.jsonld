@@ -20,7 +20,6 @@
         "@protected": true,
         "id": "@id",
         "OpenAttestationSignature2018": "xsd:string",
-        "value": "xsd:string",
         "method": "xsd:string"
       }
     },
@@ -50,7 +49,7 @@
         }
       }
     },
-    "method": "xsd:string",
+    "value": "xsd:string",
     "reference": "xsd:string",
     "name": "xsd:string",
     "path": "xsd:string",
