@@ -5,6 +5,7 @@
     
     "key1": "xsd:string",
     "key2": "xsd:string",
-    "key3": "xsd:string"
+    "key3": "xsd:string",
+    "key4": "xsd:string"
   }
 }
