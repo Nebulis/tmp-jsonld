@@ -79,6 +79,8 @@
     },
     "data": "xsd:string",
     "fileName": "xsd:string",
-    "mimeType": "xsd:string"
+    "mimeType": "xsd:string",
+    "OpenAttestationSignature2018": "xsd:string",
+    "method": "xsd:string"
   }
 }
