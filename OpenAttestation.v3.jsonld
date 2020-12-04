@@ -23,7 +23,15 @@
         "method": "xsd:string"
       }
     },
-    "oaProof": {
+    "openAttestationMetadata": {
+      "@id": "https://lol.com/todo",
+      "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id"
+      }
+    },
+    "proof": {
       "@id": "https://lol.com/todo",
       "@context": {
         "@version": 1.1,
