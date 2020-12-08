@@ -69,6 +69,13 @@
         "@set"
       ]
     },
+    "attachments": {
+      "@id": "https://lol.com/todo",
+      "@container": [
+        "@index",
+        "@set"
+      ]
+    },
     "merkleRoot": "xsd:string",
     "salts": {
       "@id": "https://lol.com/todo",
